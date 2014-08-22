@@ -1,0 +1,9 @@
+Common Use Tensor Engine (CUTE)
+-------------------------------
+
+CUTE project is an attempt to create a flexible tensor engine
+for heterogeneous computing. 
+
+Author: Marcin Ziolkowski
+License: BSD
+
